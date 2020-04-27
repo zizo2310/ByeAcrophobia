@@ -17,4 +17,4 @@
     connected to your computer.
  
 
-# there is a zip file ByeAcro thats a quick demo video of the app 
+# there is a zip file (ByeAcro.zip) thats a quick demo video of the app 
